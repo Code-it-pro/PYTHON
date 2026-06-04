@@ -1,0 +1,1 @@
+print("\nDear Gagan, \n\nThis is a Python Formatting Strings Practice. \n\nYours Faithfully,\nPython Program")
