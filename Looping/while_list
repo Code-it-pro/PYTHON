@@ -1,0 +1,7 @@
+# T = ["Go" , "GOA", "GONE"]
+
+# i = 0
+
+# while(i < len(T)):
+#     print(T[i])
+#     i +=1
